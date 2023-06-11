@@ -14,7 +14,7 @@ IMAGE 1 ALT TEXT
 
 `Modern Transit`
 
-SMALLER SUB HEAD
+SMALLER SUB HEADO
 
 `Travel`
 
@@ -47,8 +47,7 @@ IMAGE 3 FILE
 `camels-in-truck.jpg`
 
 IMAGE 3 ALT TEXT
-
-`The roads of Riyadh`
+The roads of Riyadh
 
 SMALLER SUB HEAD
 
